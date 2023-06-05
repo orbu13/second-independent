@@ -8,7 +8,7 @@
 
 * _html_
 * _css_
-*_JS_
+* _JS_
 
 ## Description
 
